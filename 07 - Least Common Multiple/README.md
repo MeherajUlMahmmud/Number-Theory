@@ -3,6 +3,7 @@
 The least common multiple is also known as LCM (or) the Lowest Common Multiple in Math. The least common multiple of two or more numbers is the smallest number among all common multiples of the given numbers. Let’s take two numbers: say, 2 and 5. Each will have its own set of multiples. 
 
 ```Multiples of 2 are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, …```
+
 ```Multiples of 5 are 5, 10, 15, 20, …```
 
 Here, the common multiples of 2 and 5 are 10, 20, ….. The smallest number among 10, 20, … is 10.
