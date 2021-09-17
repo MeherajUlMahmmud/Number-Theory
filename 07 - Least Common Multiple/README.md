@@ -56,11 +56,11 @@ Example: Find the least common multiple (LCM) of 60 and 90 using prime factoriza
 Solution:
 
 Step 1 - The prime factorization of 60 and 90 are:
-    60 = 2 × 2 × 3 × 5
-    90 = 2 × 3 × 3 × 5
+        60 = 2 × 2 × 3 × 5
+        90 = 2 × 3 × 3 × 5
 
 Step 2 - The product of all the prime factors,
-    2 × 2 × 3 × 5 × 3 = 180.
+        2 × 2 × 3 × 5 × 3 = 180.
 
 Therefore, LCM of 60 and 90 by Prime Factorization = 2 × 2 × 3 × 5 × 3 = 180
 ```
@@ -89,4 +89,4 @@ Step 3 - The LCM is the product of all the prime numbers.
         Therefore, the LCM of 6 and 15 by division method is, 2 × 3 × 5 = 30. 
 ```
  
-Though we have three methods to find the LCM, the prime factorization method is the most common and easy method that we use.
+Though we have three methods to find the LCM, the **prime factorization method** is the most common and easy method that we use.
