@@ -26,8 +26,8 @@ Here is why:
 
 Seconds in 6 weeks:         60 × 60 × 24 × 7 × 6
 Factor some numbers:	 (2 × 3 × 10) × (3 × 4 × 5) × (8 × 3) × 7 × 6
-Rearrange:	 	2 × 3 × 4 × 5 × 6 × 7 × 8 × 3 × 3 × 10
-Lastly 3×3=9:	 	2 × 3 × 4 × 5 × 6 × 7 × 8 × 9 × 10
+Rearrange:	 	 2 × 3 × 4 × 5 × 6 × 7 × 8 × 3 × 3 × 10
+Lastly 3×3=9:	 	 2 × 3 × 4 × 5 × 6 × 7 × 8 × 9 × 10
 ```
 
 ```
