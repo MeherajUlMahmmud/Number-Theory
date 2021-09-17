@@ -2,9 +2,11 @@
 
 The least common multiple is also known as LCM (or) the Lowest Common Multiple in Math. The least common multiple of two or more numbers is the smallest number among all common multiples of the given numbers. Let’s take two numbers: say, 2 and 5. Each will have its own set of multiples. 
 
-```Multiples of 2 are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, …```
+```
+Multiples of 2 are 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, …
 
-```Multiples of 5 are 5, 10, 15, 20, …```
+Multiples of 5 are 5, 10, 15, 20, …
+```
 
 Here, the common multiples of 2 and 5 are 10, 20, ….. The smallest number among 10, 20, … is 10.
 
@@ -29,7 +31,9 @@ To calculate the LCM of the two numbers A and B by using listing out the common 
 ```
 Example: Find the least common multiple (LCM) of 4 and 5. 
 
-Solution: Multiples of 4 are: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, ... and the multiples of 5 are: 5, 10, 15, 20, 25, 30, 35, 40, ...
+Solution:
+Multiples of 4 are: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40, ... and
+the multiples of 5 are: 5, 10, 15, 20, 25, 30, 35, 40, ...
 
 LCM of 4 and 5 by listing out common multiples:
 4 -> 4, 8, 12, 16, 20, 24, ...
