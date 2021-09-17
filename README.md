@@ -1,7 +1,8 @@
 # Number Theory
 
 ```
-In the repository I have tried to implement some number theory algorithms, and write a little backstory about them. I hope it helps you.
+In the repository I have tried to implement some number theory algorithms, and write a little backstory about them.
+I hope it helps you.
 
 Don't expect too much, but I will try my best to write it. And don't forget to start the repo. Happy coding. :)
 ```
