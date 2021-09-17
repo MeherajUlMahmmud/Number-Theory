@@ -45,7 +45,9 @@ There are about 60! atoms in the observable Universe.
 ```
 
 ```
-70! is approximately 1.197857... x 10^100, which is just larger than a Googol (the digit 1 followed by one hundred zeros).
+70! is approximately 1.197857... x 10^100,
+which is just larger than a Googol
+(1 Googol = 1.0 × 10^100 or the digit 1 followed by one hundred zeros).
 
 100! is approximately 9.3326215443944152681699238856 x 10^157
 
