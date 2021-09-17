@@ -54,4 +54,4 @@ which is just larger than a Googol
 200! is approximately 7.8865786736479050355236321393 x 10^374
 ```
 
-References: [Maths is Fun](https://www.mathsisfun.com/numbers/factorial.html)
+Reference: [Maths is Fun](https://www.mathsisfun.com/numbers/factorial.html)
