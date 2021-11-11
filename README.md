@@ -6,7 +6,7 @@ and write a little backstory about them.
 I hope it helps you.
 
 Don't expect too much, but I will try my best to write it.
-And don't forget to start the repo. Happy coding. :)
+And don't forget to star✨✨ the repo. Happy coding. :)
 ```
 
 **Number theory**, branch of mathematics concerned with properties of the positive integers (1, 2, 3, …). Sometimes called “higher arithmetic,” it is among the oldest and most natural of mathematical pursuits.
